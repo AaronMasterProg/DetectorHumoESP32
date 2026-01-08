@@ -5,6 +5,4 @@ Ver en que parte agregan la descripción del proyecto y esto junto con las evide
 
 Una vez creado el BOT en Telegram, se procede a sacar las credenciales y TOKEN, los cuales no se mostrarán explicitamente aquí ni alguna contraseña, por temas de seguridad.
 
-<p>
 <img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/8cb630c9-59ef-4d6d-aed6-4794accfff32" />
-</p>
