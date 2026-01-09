@@ -20,4 +20,4 @@ El código Arduino se encuentra en la carpeta asignada a esta simulación.
 ## Actividad: Editar la simulación para que detecte adecuadamente el humo y pueda funcionar sin problema.
 ## Luego se tendrá que copiar y pegar el link de vuelta aquí para su revisión.
 
-https://wokwi.com/projects/452711788316008449https://wokwi.com/projects/452711788316008449
+https://wokwi.com/projects/452711788316008449
