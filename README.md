@@ -1,4 +1,5 @@
 # DetectorHumoESP32
+# Ya se puede editar :)
 En esta sección iran agregando las partes de la documentación, para iniciar les muestro como deben continuar:
 
 Ver en que parte agregan la descripción del proyecto y esto junto con las evidencias:
