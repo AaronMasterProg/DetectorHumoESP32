@@ -1,5 +1,5 @@
 # DetectorHumoESP32
-# Ya se puede editar :)
+# Les mandare la invitacion de nuevo y es importante la ACEPTEN directamente en Github o en su correo. Se deben asegurar que aparezcan como Contribuidores
 En esta sección iran agregando las partes de la documentación, para iniciar les muestro como deben continuar:
 
 Ver en que parte agregan la descripción del proyecto y esto junto con las evidencias:
