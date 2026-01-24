@@ -6,8 +6,8 @@
 const char* ssid = "ESNE"; 
 const char* password = "ESNE2023"; 
 
-const String BOT_TOKEN = "8371451527:AAG4Cje1w1XvzLfVD2F9J7b0WyvB6M25d7I"; /* Ejercicio: guardar dentro de una variable y llamarla en esta sección.*/
-const String CHAT_ID = "5155878614"; /* Valor que deben obtener para vincular su teléfono al chatbot, hacer lo mismo que la variable anterior.*/
+const String BOT_TOKEN = "8371451527:AAG4Cje1w1XvzLfVD2F9J7b0WyvB6M25d7I"; 
+const String CHAT_ID = "5155878614"; 
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
@@ -85,3 +85,4 @@ void loop() {
 }
 
 /*Editado por Tianny Lopez 
+
