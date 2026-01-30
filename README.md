@@ -142,40 +142,44 @@ Evidencia:
 Describir el comportamiento del sistema durante las pruebas, tiempos de respuesta, confiabilidad y funcionamiento general.
 
 ## 11. Problemas presentados y soluciones
+Problema Detectado:
+Falsas alarmas por sensibilidad del sensor.
 
-Problema que detecta.
+Solucion presentada:
+Ajuste del umbral de deteccion y filtrado de lecturas.
 
-Problema que resuelve.
+Ubicacion de la solucion:
+Codigo del ESP32, seccion de lectura del sensor.
 
-Donde se implementa.
 
 ## 12. Recomendaciones de uso
 
-- Mantener el ESP32 conectado a una red WiFi estable.
-- Ajustar el umbral del sensor para evitar falsas alarmas.
-- Realizar pruebas periódicas del sistema.
-- No utilizar el sistema como único medio de seguridad.
+- No utilizar el sistema como unico medio de seguridad
+- Mantener el ESP32 conectado a una red WiFi estable
+-Realizar pruebas periodicas del sistema.
+-Ajustar el umbral del sensor adecuadamente
+
 
 ## 13. Conclusiones
 
-Redactar las conclusiones del proyecto, describiendo:
-- Qué se aprendió
-- Qué funcionó correctamente
-- Qué podría mejorarse
-- La importancia del uso de IoT en sistemas de monitoreo, así como su aplicación en áreas de mantenimiento industrial y Soporte Técnico.
+    Durante el desarrollo del proyecto se aprendio:
+	-Integracion del hardware y software  en el sistema loT.
+	-Comunicacion entre dispositivos y servicios en la nube.
+    -Uso de bots como telegram para el control remoto.
+
 
 ## 14. Trabajo futuro
 
-- Integración con otros sensores
-- Registro de eventos
-- Interfaz web
+- Integración de sensores adicionales
+- Registro histórico de eventos.
+- Desarrollo de interfaz web
 - Control de actuadores adicionales
 
 ## 15. Referencias
 
-- Documentación ESP32
-- Telegram Bot API
-- Manuales del sensor utilizado
+•	Documentación oficial ESP32
+•	Telegram Bot API
+•	Manual del sensor de gas utilizado.
 
 ## 16. Material.
 
@@ -184,5 +188,7 @@ Al final de esta sección agregar una fotografía del proyecto ya completamente 
 
 ## 17. Créditos
 
-Proyecto desarrollado con fines académicos para práctica de Soporte Técnico.
-ESNE (2026)
+Proyecto desarrollado con fines académicos para practica Soporte Técnico. ESNE (2026).
+Mereles Arellano Luis Antonio.
+Eugenio Emmanuel Badillo Perez.
+
