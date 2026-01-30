@@ -39,9 +39,6 @@ El sistema opera de manera continua realizando las siguientes acciones:
 	- Cuando el valor leido supera al umbral definido en la variable umbral, el sistema activa una alarma sonora y envia una notificacion inmediata a los usuarios registrados.
 	- Paralelamente, el sistema revisa periodicamente si existen comandos enviados desde telegram para permitir el control remoto del sistema.
 
-<img width="947" height="611" alt="image" src="https://github.com/user-attachments/assets/7d43f4fe-a2a0-4e67-b89d-2d77bcd3948a" />
-
-
 ## 4. Usuarios del sistema
 
 El sistema está diseñado para múltiples usuarios mediante un mecanismo de suscripción.
