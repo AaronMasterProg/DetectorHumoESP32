@@ -136,7 +136,8 @@ Evidencia:
 
 ## 10. Resultados obtenidos
 
-Describir el comportamiento del sistema durante las pruebas, tiempos de respuesta, confiabilidad y funcionamiento general.
+<img width="1919" height="1079" alt="Captura de pantalla 2026-01-31 095502" src="https://github.com/user-attachments/assets/d895bfba-1533-43fd-a0ac-97de5af20498" />
+
 
 ## 11. Problemas presentados y soluciones
 Problema Detectado:
