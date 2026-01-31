@@ -120,7 +120,7 @@ El sistema puede encontrarse en los siguientes estados:
 
 ## 9. Pruebas de funcionamiento
 
-En esta sección el alumno debe documentar las pruebas realizadas.
+En esta sección se añadiran las evidencias de las pruebas del desarrollo
 
 ### 9.1 Prueba de conexión WiFi  
 Evidencia:
@@ -192,6 +192,7 @@ Al final de esta sección agregar una fotografía del proyecto ya completamente 
 ## 17. Créditos
 
 Proyecto desarrollado con fines académicos para practica Soporte Técnico. ESNE (2026).
+##Editado por
 - Mereles Arellano Luis Antonio.
 - Eugenio Emmanuel Badillo Perez.
 
