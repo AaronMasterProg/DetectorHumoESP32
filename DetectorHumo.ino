@@ -3,8 +3,8 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "ESNE"; 
-const char* password = "ESNE2023"; 
+const char* ssid = ""; 
+const char* password = ""; 
 
 const String BOT_TOKEN = "8371451527:AAG4Cje1w1XvzLfVD2F9J7b0WyvB6M25d7I"; 
 const String CHAT_ID = "5155878614"; 
@@ -85,4 +85,5 @@ void loop() {
 }
 
 /*Editado por Tianny Lopez 
+
 
