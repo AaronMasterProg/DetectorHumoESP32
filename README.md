@@ -192,7 +192,7 @@ Al final de esta sección agregar una fotografía del proyecto ya completamente 
 ## 17. Créditos
 
 Proyecto desarrollado con fines académicos para practica Soporte Técnico. ESNE (2026).
-##Editado por
+- ##Editado por
 - Mereles Arellano Luis Antonio.
 - Eugenio Emmanuel Badillo Perez.
 
