@@ -16,7 +16,5 @@ El código Arduino se encuentra en la carpeta asignada a esta simulación.
 - Buzzer
 - Resistencias y cables
 
-## Luego se tendrá que copiar y pegar el link de vuelta aquí para su revisión.
-
 Simulación hecha por Acevedo Ruiz Cristofer Javier
 https://wokwi.com/projects/454553917289955329
