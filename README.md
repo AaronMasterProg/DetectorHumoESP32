@@ -137,6 +137,7 @@ Evidencia:
 ## 10. Resultados obtenidos
 
 <img width="1919" height="1079" alt="Captura de pantalla 2026-01-31 095502" src="https://github.com/user-attachments/assets/d895bfba-1533-43fd-a0ac-97de5af20498" />
+<img width="1919" height="993" alt="Captura de pantalla 2026-01-31 102200" src="https://github.com/user-attachments/assets/2f955a1b-5375-4e51-b81d-f956de689668" />
 
 
 ## 11. Problemas presentados y soluciones
