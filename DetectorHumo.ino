@@ -6,8 +6,8 @@
 const char* ssid = ""; 
 const char* password = ""; 
 
-const String BOT_TOKEN = "8371451527:AAG4Cje1w1XvzLfVD2F9J7b0WyvB6M25d7I"; 
-const String CHAT_ID = "5155878614"; 
+const String BOT_TOKEN = ""; 
+const String CHAT_ID = ""; 
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
@@ -85,5 +85,6 @@ void loop() {
 }
 
 /*Editado por Tianny Lopez 
+
 
 
