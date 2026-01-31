@@ -1,6 +1,6 @@
 # MANUAL DE USUARIO  
 ## Sistema de Detección de Humo con ESP32 y Bot de Telegram
-##En esta sección son libres de adecuar a su estilo de trabajo, ocupar distintas herramientas y usar su creatividad para lo que requieran agregar.
+
 
 ## 1. Presentación del sistema
 
@@ -52,9 +52,6 @@ Esto se logra mediante:
 	- Cada mensaje recibido por el bot es valido comparando el chat_id del remitiente con el valor almacenado.
 	- Si el usuario no coincide con el ID autorizado, el sistema responde ccon un mensaje de rechazo
 
-
-Pegar aquí la captura del bot creado en Telegram, y después del bot ya recibiendo alertas de la ESP32.
-
 <img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/8cb630c9-59ef-4d6d-aed6-4794accfff32" />
 
 ## 5. Requisitos para el uso del sistema
@@ -67,11 +64,11 @@ Agregar el diagrama de bloques del proyecto.
 ### 5.2 Requisitos de software
 
 El sistema fue desarrollado utilizando el siguiente software y librerías:
-a.	Arduino IDE (Entorno para el desarrollo)
-b.	Librería WiFi.h para la conexión a redes inalámbricas
-c.	WiFiClientSecure.h para la comunicación segura HTTPS
-d.	UniversalTelegramBot.h para la interacción con la API de Telegram
-e.	Arduino.Json.h para el manejo interno de mensajes JSON
+-	Arduino IDE (Entorno para el desarrollo)
+-	Librería WiFi.h para la conexión a redes inalámbricas
+-	WiFiClientSecure.h para la comunicación segura HTTPS
+-	UniversalTelegramBot.h para la interacción con la API de Telegram
+-	Arduino.Json.h para el manejo interno de mensajes JSON
 Estas herramientas permiten la comunicación en tiempo real entre ESP32 y los servidores de Telegram, así como la correcta interpretación de comandos enviados por el usuario. 
 
 
@@ -185,10 +182,16 @@ Codigo del ESP32, seccion de lectura del sensor.
 
 Agregar aquí el material y fotografías de todo el material.
 Al final de esta sección agregar una fotografía del proyecto ya completamente ensamblado.
-
+- ESP32 Dev Module
+- Buzzer activo
+- Cables Dupont
+- Sensor de humo/Gas
+- Protoboard
+- Fuente de alimentacion
+- Telegram Instalado
 ## 17. Créditos
 
 Proyecto desarrollado con fines académicos para practica Soporte Técnico. ESNE (2026).
-Mereles Arellano Luis Antonio.
-Eugenio Emmanuel Badillo Perez.
+- Mereles Arellano Luis Antonio.
+- Eugenio Emmanuel Badillo Perez.
 
